@@ -93,3 +93,7 @@ C:\Users\Tai Linh Du\source\repos\MvcMovie\MvcMovie\bin\EntityFramework.dll
 C:\Users\Tai Linh Du\source\repos\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.dll
 C:\Users\Tai Linh Du\source\repos\MvcMovie\MvcMovie\bin\EntityFramework.xml
 C:\Users\Tai Linh Du\source\repos\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.xml
+C:\Users\Tai Linh Du\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.InitialCreate.resources
+C:\Users\Tai Linh Du\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.cache
+C:\Users\Tai Linh Du\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Initial.resources
+C:\Users\Tai Linh Du\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
