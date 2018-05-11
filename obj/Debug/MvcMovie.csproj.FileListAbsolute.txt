@@ -97,3 +97,4 @@ C:\Users\Tai Linh Du\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migration
 C:\Users\Tai Linh Du\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.cache
 C:\Users\Tai Linh Du\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Initial.resources
 C:\Users\Tai Linh Du\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
+C:\Users\Tai Linh Du\source\repos\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.DataAnnotations.resources
